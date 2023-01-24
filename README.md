@@ -1,2 +1,2 @@
 # Recipes-API
-An API with CRUD of ingredients, units of measure and recipes.
+APIs with CRUD for ingredients, units of measure and recipes that can be connected with microservices architecture
